@@ -1,4 +1,0 @@
-shellscripting
-==============
-
-shell scripts
