@@ -1,0 +1,16 @@
+1. Login to github  
+2. create a repository
+3. Add 	SSH keys in repository settings (check in right side corner)
+4. goto command prompt 
+	run git init	: will create an initialize repository for git
+	git add filename:
+	git commit -m "commit"
+	git config --global user.name "your username"
+	git config --global user.email "your email"
+	git remote add origin git@github.com:manjoosha/shellscripting.git
+	git push origin master
+	git pull git@github.com:manjoosha/shellscripting.git
+	git push git@github.com:manjoosha/shellscripting.git
+
+	
+
