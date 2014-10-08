@@ -1,0 +1,5 @@
+
+This command is used to know the deleted files.......
+
+git log --diff-filter=D --summary | grep delete
+
