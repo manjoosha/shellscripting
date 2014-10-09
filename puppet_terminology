@@ -17,4 +17,9 @@
   How does puppet work in different platform?
   Using Facter tool.
 
+  What are the packages are used for pupper master?
+  puppet, puppet-server, facter.
+  
+  What are the packages are used for pupper agent?
+  puppet and facter.
  
