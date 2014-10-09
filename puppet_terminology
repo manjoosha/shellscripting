@@ -2,15 +2,17 @@
   Puppet is a infrastructure automation tool.
   
   What is puppet master?
-  Puppet master contains all the configuration for different hosts
+  Puppet master contains all the configuration for different hosts.
   
+  What is puppet agent?
+  Puppet agent will go and ask the configuration for itself from the puppet master server.
   How puppet works?
     
 
 
 
-1. What is Catalog?
+What is Catalog?
 
 When configuring a node, puppet agent uses a document called a catalog, which it downloads from a puppet master server. 
 
-2. 
+ 
