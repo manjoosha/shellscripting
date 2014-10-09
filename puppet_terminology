@@ -10,10 +10,11 @@
   
   Default time for agent to fetch the data from master?
   30 minutes.
-
-
-What is Catalog?
-
-When configuring a node, puppet agent uses a document called a catalog, which it downloads from a puppet master server. 
+  
+  What is Catalog?
+  When configuring a node, puppet agent uses a document called a catalog, which it downloads from a puppet master.
+  
+  How does puppet work in different platform?
+  Using Facter tool.
 
  
