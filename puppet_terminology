@@ -8,6 +8,9 @@
   Puppet agent will go and ask the configuration for itself from the puppet master server.
   How puppet works?
   
+  What is the default port for puppet?
+  8140
+  
   Default time for agent to fetch the data from master?
   30 minutes.
   
@@ -23,3 +26,17 @@
   What are the packages are used for pupper agent?
   puppet and facter.
  
+  What is the configuration file for puppet?
+  puppet.conf
+  
+  Where we can get the puppet.conf file?
+  /etc/puppet/puppet.conf
+  
+  What is site.pp?
+  It is a file have the configurations applied to nodes.
+  
+  Where we can get the site.pp file?
+  /etc/puppet/manifest/site.pp
+  
+  What are manifests in puppet?
+  Manifests contains the configuration for nodes.
