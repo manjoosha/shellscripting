@@ -7,8 +7,9 @@
   What is puppet agent?
   Puppet agent will go and ask the configuration for itself from the puppet master server.
   How puppet works?
-    
-
+  
+  Default time for agent to fetch the data from master?
+  30 minutes.
 
 
 What is Catalog?
