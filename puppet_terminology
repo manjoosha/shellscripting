@@ -63,6 +63,6 @@
   puppet module upgrade latest_version.
   
   Where default puppet modules stored in?
-  /etc/puppet/modules
+  /etc/puppet/modules  &  var/lib/puppet/modules
   
   
