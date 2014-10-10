@@ -43,3 +43,14 @@
   
   What is nodes.pp?
   nodes.pp file contains your node declarations.
+  
+  How to install a module in puppet?
+  puppet module install modulename.
+  
+  How to view modules list?
+  puppet module list
+  
+  How to uninstall module in puppet?
+  puppet module uninstall modulename.
+  
+  
