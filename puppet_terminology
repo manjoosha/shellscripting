@@ -62,4 +62,7 @@
   How to upgrade module in puppet?
   puppet module upgrade latest_version.
   
+  Where default puppet modules stored in?
+  /etc/puppet/modules
+  
   
