@@ -39,4 +39,7 @@
   /etc/puppet/manifest/site.pp
   
   What is manifest in puppet?
-  Manifest is consist of list of resources declarations.
+  Manifest is consist of list of resources declarations
+  
+  What is nodes.pp?
+  nodes.pp file contains your node declarations.
