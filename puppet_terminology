@@ -53,4 +53,7 @@
   How to uninstall module in puppet?
   puppet module uninstall modulename.
   
+  How to upgrade module in puppet?
+  puppet module upgrade latest_version.
+  
   
