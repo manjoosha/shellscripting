@@ -48,7 +48,7 @@
   nodes.pp file contains your node declarations.
   
   What is a module?
-  Module is collection of manifests, files, classes, templates.
+  Module is collection of manifests.
   
   How to install a module in puppet?
   puppet module install modulename.
