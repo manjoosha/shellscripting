@@ -38,5 +38,5 @@
   Where we can get the site.pp file?
   /etc/puppet/manifest/site.pp
   
-  What are manifests in puppet?
-  Manifests contains the configuration for nodes.
+  What is manifest in puppet?
+  Manifest is consist of list of resources declarations.
