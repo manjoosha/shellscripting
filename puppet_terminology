@@ -65,4 +65,6 @@
   Where default puppet modules stored in?
   /etc/puppet/modules  &  var/lib/puppet/modules
   
-  
+  What is init.pp file in puppet?
+  The default class definitions are declared in init.pp file.
+  The class name must match with the module name.
