@@ -1,0 +1,70 @@
+  What is puppet?
+  Puppet is a infrastructure automation tool.
+  
+  What is puppet master?
+  Puppet master contains all the configuration for different hosts.
+  
+  What is puppet agent?
+  Puppet agent will go and ask the configuration for itself from the puppet master server.
+  How puppet works?
+  
+  What is the default port for puppet?
+  8140
+  
+  Default time for agent to fetch the data from master?
+  30 minutes.
+  
+  What is Catalog?
+  When configuring a node, puppet agent uses a document called a catalog, which it downloads from a puppet master.
+  
+  How does puppet work in different platform?
+  Using Facter tool.
+
+  What are the packages are used for pupper master?
+  puppet, puppet-server, facter.
+  
+  What are the packages are used for pupper agent?
+  puppet and facter.
+ 
+  What is the configuration file for puppet?
+  puppet.conf
+  
+  Where we can get the puppet.conf file?
+  /etc/puppet/puppet.conf
+  
+  What is site.pp?
+  It is a file have the configurations applied to nodes.
+  
+  Where we can get the site.pp file?
+  /etc/puppet/manifest/site.pp
+  
+  What is manifest in puppet?
+  Manifest is consist of list of resources declarations.
+  
+  What are the contents in puppet manifest file?
+  files, templates, classes, nodes, resources.
+  
+  What is nodes.pp?
+  nodes.pp file contains your node declarations.
+  
+  What is a module?
+  Module is collection of manifests.
+  
+  How to install a module in puppet?
+  puppet module install modulename.
+  
+  How to view modules list?
+  puppet module list
+  
+  How to uninstall module in puppet?
+  puppet module uninstall modulename.
+  
+  How to upgrade module in puppet?
+  puppet module upgrade latest_version.
+  
+  Where default puppet modules stored in?
+  /etc/puppet/modules  &  var/lib/puppet/modules
+  
+  What is init.pp file in puppet?
+  The default class definitions are declared in init.pp file.
+  The class name must match with the module name.
